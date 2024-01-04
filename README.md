@@ -10,7 +10,7 @@
 
 ## 👉Description
 Introducing Uni Wallet – Your Comprehensive Money Tracker and Group Expense Management App!
-
+flutter build apk --target-platform android-arm64 --release --analyze-size
 Uni Wallet revolutionizes the way you manage your finances with its user-friendly interface and powerful features. Create or join groups effortlessly to collaboratively track and manage expenses with friends, family, or colleagues.
 
 Key Features:
